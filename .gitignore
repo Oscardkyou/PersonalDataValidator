@@ -1,0 +1,24 @@
+# Java-specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific (например, для IntelliJ IDEA)
+.idea/
+*.iml
+*.iws
+
+# Мусорные файлы
+*.bak
+*.swp
+*.swo
+
+# Другое
+target/
